@@ -1,0 +1,2 @@
+routes:
+  /pages/get: PageLinksController@getPages
