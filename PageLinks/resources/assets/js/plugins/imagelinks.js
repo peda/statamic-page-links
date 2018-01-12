@@ -37,10 +37,10 @@
 						this.imagelinks.storage[key] = val;
 
 						if(val.url === $selected) {
-                            $select.append($('<option selected>').val(key).html(val.name).css('padding-left', (val.depth * 10)+'px'));
+                            $select.append($('<option selected>').val(key).html(val.name));
                         }
                         else {
-                            $select.append($('<option>').val(key).html(val.name).css('padding-left', (val.depth * 10)+'px'));
+                            $select.append($('<option>').val(key).html(val.name));
 						}
 
 					}, this));

@@ -65,11 +65,19 @@ class PageLinksController extends Controller
 
             $segmentCount = substr_count($url, "/");
 
+            for($i=0;$i<$segmentCount && $url != '/';$i++) {
+                if($i==0) {
+                    $name = "-- " . $name;
+                }
+                else {
+                    $name = "--" . $name;
+                }
+            }
+
             return [
                 'name' => $name,
-                'url' => "{{ pages id='".$entry->id()."' }}{{ url }}{{ /pages }}",
+                'url' => "{{ get_content from='".$entry->id()."' }}{{ url }}{{ /get_content }}",
                 'slug' => $url,
-                'depth' => $segmentCount
             ];
         })->sort(function ($a, $b) {
             return strnatcasecmp($a['slug'], $b['slug']);

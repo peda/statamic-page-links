@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3a4ea36-f894-47ab-b40b-038e224bcc0a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PageLinks/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PageLinks/PageLinksController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PageLinks/PageLinksListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PageLinks/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PageLinks/meta.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PageLinks/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PageLinks/resources/assets/css/pagelinks.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PageLinks/resources/assets/js/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/definedlinks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/imagelinks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PageLinks/resources/assets/js/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PageLinks/resources/assets/js/scripts.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PageLinks/routes.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PageLinks/settings.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/statamic-page-links.iml" afterPath="$PROJECT_DIR$/.idea/statamic-page-links.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PageLinks/PageLinksController.php" afterPath="$PROJECT_DIR$/PageLinks/PageLinksController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/definedlinks.js" afterPath="$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/definedlinks.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/imagelinks.js" afterPath="$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/imagelinks.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +23,8 @@
       <file leaf-file-name="imagelinks.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/imagelinks.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state relative-caret-position="734">
+              <caret line="39" column="89" lean-forward="false" selection-start-line="39" selection-start-column="89" selection-end-line="39" selection-end-column="89" />
               <folding />
             </state>
           </provider>
@@ -41,8 +33,8 @@
       <file leaf-file-name="definedlinks.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/definedlinks.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="38" column="123" lean-forward="false" selection-start-line="38" selection-start-column="123" selection-end-line="38" selection-end-column="123" />
+            <state relative-caret-position="558">
+              <caret line="35" column="89" lean-forward="true" selection-start-line="35" selection-start-column="89" selection-end-line="35" selection-end-column="89" />
               <folding />
             </state>
           </provider>
@@ -62,13 +54,13 @@
         <entry file="file://$PROJECT_DIR$/PageLinks/meta.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" column="84" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="84" />
+              <caret line="2" column="84" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="84" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -111,11 +103,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PageLinksController.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PageLinksController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PageLinks/PageLinksController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="35" />
+            <state relative-caret-position="624">
+              <caret line="78" column="91" lean-forward="false" selection-start-line="78" selection-start-column="91" selection-end-line="78" selection-end-column="91" />
               <folding />
             </state>
           </provider>
@@ -147,13 +139,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/PageLinks/routes.yaml" />
-        <option value="$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/definedlinks.js" />
-        <option value="$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/imagelinks.js" />
-        <option value="$PROJECT_DIR$/PageLinks/PageLinksController.php" />
         <option value="$PROJECT_DIR$/PageLinks/PageLinksListener.php" />
         <option value="$PROJECT_DIR$/PageLinks/meta.yaml" />
         <option value="$PROJECT_DIR$/PageLinks/package.json" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/definedlinks.js" />
+        <option value="$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/imagelinks.js" />
+        <option value="$PROJECT_DIR$/PageLinks/PageLinksController.php" />
       </list>
     </option>
   </component>
@@ -278,12 +270,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515761725592</updated>
-      <workItem from="1515761727412" duration="772000" />
+      <workItem from="1515761727412" duration="2190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="772000" />
+    <option name="totallyTimeSpent" value="2190000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2000" y="-5" width="2481" height="1446" extended-state="6" />
@@ -335,30 +327,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/definedlinks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="38" column="123" lean-forward="false" selection-start-line="38" selection-start-column="123" selection-end-line="38" selection-end-column="123" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/imagelinks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PageLinks/PageLinksController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PageLinks/PageLinksListener.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -405,7 +373,7 @@
     <entry file="file://$PROJECT_DIR$/PageLinks/meta.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="84" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="84" />
+          <caret line="2" column="84" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="84" />
           <folding />
         </state>
       </provider>
@@ -426,6 +394,30 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/definedlinks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="35" column="89" lean-forward="true" selection-start-line="35" selection-start-column="89" selection-end-line="35" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/imagelinks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="734">
+          <caret line="39" column="89" lean-forward="false" selection-start-line="39" selection-start-column="89" selection-end-line="39" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageLinks/PageLinksController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="78" column="91" lean-forward="false" selection-start-line="78" selection-start-column="91" selection-end-line="78" selection-end-column="91" />
+          <folding />
         </state>
       </provider>
     </entry>
