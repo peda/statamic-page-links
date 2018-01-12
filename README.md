@@ -20,5 +20,5 @@ redactor:
       plugins:
         - definedlinks
         - imagelinks
-      definedLinks: '/cp/addons/multilang/pages/get'
+      definedLinks: '/cp/addons/page-links/pages/get'
 ```
