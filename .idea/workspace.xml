@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3a4ea36-f894-47ab-b40b-038e224bcc0a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/statamic-page-links.iml" afterPath="$PROJECT_DIR$/.idea/statamic-page-links.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/statamic-page-links.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PageLinks/PageLinksController.php" afterPath="$PROJECT_DIR$/PageLinks/PageLinksController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/definedlinks.js" afterPath="$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/definedlinks.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/imagelinks.js" afterPath="$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/imagelinks.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PageLinks/.gitignore" afterPath="$PROJECT_DIR$/PageLinks/.gitignore" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -103,7 +100,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PageLinksController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PageLinksController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PageLinks/PageLinksController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="624">
@@ -113,11 +110,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.yaml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PageLinks/routes.yaml">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PageLinks/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="33" />
+            <state relative-caret-position="44">
+              <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -146,6 +143,7 @@
         <option value="$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/definedlinks.js" />
         <option value="$PROJECT_DIR$/PageLinks/resources/assets/js/plugins/imagelinks.js" />
         <option value="$PROJECT_DIR$/PageLinks/PageLinksController.php" />
+        <option value="$PROJECT_DIR$/PageLinks/.gitignore" />
       </list>
     </option>
   </component>
@@ -270,18 +268,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515761725592</updated>
-      <workItem from="1515761727412" duration="2190000" />
+      <workItem from="1515761727412" duration="2235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2190000" />
+    <option name="totallyTimeSpent" value="2235000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2000" y="-5" width="2481" height="1446" extended-state="6" />
-    <editor active="true" />
+    <frame x="2001" y="-5" width="2479" height="1445" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969746" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969746" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -311,14 +308,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PageLinks/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PageLinks/routes.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -417,6 +406,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
           <caret line="78" column="91" lean-forward="false" selection-start-line="78" selection-start-column="91" selection-end-line="78" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageLinks/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
           <folding />
         </state>
       </provider>
